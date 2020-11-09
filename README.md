@@ -2,6 +2,8 @@
 
 Tool designed to crack hashes using the rainbow tables tecnic
 
+![image](https://user-images.githubusercontent.com/41025154/98489864-7c95a300-220e-11eb-9760-1fbd9dcecfc5.png)
+
 ### Prerequisites
 - Python 3.x
 
@@ -18,10 +20,6 @@ Tool designed to crack hashes using the rainbow tables tecnic
 
 ## Running the script
 - python3 hashcorn.py wordlist.txt
-
-
-![image](https://user-images.githubusercontent.com/41025154/98489864-7c95a300-220e-11eb-9760-1fbd9dcecfc5.png)
-
 
 
 ## Authors
